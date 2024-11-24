@@ -1,0 +1,5 @@
+com.example.roomapplicationaula.test.app-core-1.6.1-0 C:\Users\higor\.gradle\caches\transforms-4\72614dc0db58e42f1a519d2023486369\transformed\core-1.6.1\res
+com.example.roomapplicationaula.test.app-androidTest-1 C:\Users\higor\AndroidStudioProjects\roomApplicationAula\app\build\generated\res\resValues\androidTest\debug
+com.example.roomapplicationaula.test.app-mergeDebugAndroidTestResources-2 C:\Users\higor\AndroidStudioProjects\roomApplicationAula\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.roomapplicationaula.test.app-mergeDebugAndroidTestResources-3 C:\Users\higor\AndroidStudioProjects\roomApplicationAula\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.roomapplicationaula.test.app-debugAndroidTest-4 C:\Users\higor\AndroidStudioProjects\roomApplicationAula\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
